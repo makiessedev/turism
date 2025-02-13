@@ -34,11 +34,11 @@ function Contact() {
           <h6 className="section-title bg-white text-center text-primary px-3">
             Contacte-nos
           </h6>
-          <h1 className="mb-5">Contact For Any Query</h1>
+          <h1 className="mb-5">Contacto Para Qualquer Questão</h1>
         </div>
         <div className="row g-4">
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <h5>Get In Touch</h5>
+            <h5>Entre Em contacto</h5>
             <p className="mb-4">
               Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
               diam amet diam et eos
