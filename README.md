@@ -1,11 +1,4 @@
-
-![Awesome ReadME](https://raw.githubusercontent.com/ParasSalunke/Tourist-Travel-Agency-Website/main/travel-agency-react-template.jpg)
-
 # Tourist - Travel Agency React Website
-
-[![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
-
-###
 
 # Languages-Frameworks-Tools Used
 
