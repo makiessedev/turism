@@ -115,19 +115,18 @@ export default function Home() {
       <div className="container">
         <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Services
+            Serviços
           </h6>
-          <h1 className="mb-5">Our Services</h1>
+          <h1 className="mb-5">Nossos Serviços</h1>
         </div>
         <div className="row g-4">
           <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-globe text-primary mb-4" />
-                <h5>WorldWide Tours</h5>
+                <h5>Consultoria de Viagem</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Oferecemos consultoria especializada para auxiliar o cliente no planejamento da viagem, desde a escolha do destino até a reserva de voos e hospedagem.
                 </p>
               </div>
             </div>
@@ -136,10 +135,9 @@ export default function Home() {
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-hotel text-primary mb-4" />
-                <h5>Hotel Reservation</h5>
+                <h5>Hospedagem de Qualidade</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Selecionamos hotéis, pousadas e outros tipos de acomodação que ofereçam conforto, segurança e qualidade nos serviços.
                 </p>
               </div>
             </div>
@@ -148,10 +146,9 @@ export default function Home() {
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-user text-primary mb-4" />
-                <h5>Travel Guides</h5>
+                <h5>Transporte Privativo</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Oferecemos serviço de transporte privativo com motoristas qualificados para garantir o conforto e a segurança do viajante.
                 </p>
               </div>
             </div>
@@ -160,10 +157,9 @@ export default function Home() {
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-cog text-primary mb-4" />
-                <h5>Event Management</h5>
+                <h5>Roteiros Inteligentes e Personalizados</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Elaboramos roteiros personalizados de acordo com as preferências do cliente, incluindo destinos, atividades, duração da viagem e nível de conforto.
                 </p>
               </div>
             </div>
@@ -172,10 +168,9 @@ export default function Home() {
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-globe text-primary mb-4" />
-                <h5>WorldWide Tours</h5>
+                <h5>Plataforma Digital</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Desenvolvemos uma plataforma digital intuitiva e completa, onde o viajante pode encontrar informações sobre os destinos, personalizar roteiros, reservar serviços e acessar conteúdos exclusivos.
                 </p>
               </div>
             </div>
@@ -184,10 +179,9 @@ export default function Home() {
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-hotel text-primary mb-4" />
-                <h5>Hotel Reservation</h5>
+                <h5>Aplicativo Móvel</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Criamos um aplicativo móvel para facilitar o acesso às informações durante a viagem, com mapas offline, dicas de viagem, tradutor e outras funcionalidades.
                 </p>
               </div>
             </div>
@@ -196,10 +190,9 @@ export default function Home() {
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-user text-primary mb-4" />
-                <h5>Travel Guides</h5>
+                <h5>Realidade Virtual</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Utilizamos a realidade virtual para apresentar os destinos de forma imersiva, permitindo que o viajante tenha uma prévia da experiência que o aguarda em Angola.
                 </p>
               </div>
             </div>
@@ -208,10 +201,9 @@ export default function Home() {
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-cog text-primary mb-4" />
-                <h5>Event Management</h5>
+                <h5>Passeios e Excursões</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Organizamos passeios e excursões para os principais pontos turísticos de Angola, incluindo parques nacionais, reservas naturais, cidades históricas e centros culturais.
                 </p>
               </div>
             </div>
@@ -225,9 +217,9 @@ export default function Home() {
       <div className="container">
         <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Destination
+            Destinos
           </h6>
-          <h1 className="mb-5">Popular Destination</h1>
+          <h1 className="mb-5">Destinos Populares</h1>
         </div>
         <div className="row g-3">
           <div className="col-lg-7 col-md-6">
@@ -246,10 +238,10 @@ export default function Home() {
                     alt=""
                   />
                   <div className="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">
-                    30% OFF
+                    Namibe - Huíla
                   </div>
                   <div className="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
-                    Thailand
+                    Serra da Leba
                   </div>
                 </a>
               </div>
@@ -267,10 +259,10 @@ export default function Home() {
                     alt=""
                   />
                   <div className="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">
-                    25% OFF
+                    Namibe
                   </div>
                   <div className="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
-                    Malaysia
+                    Deserto do Namibe
                   </div>
                 </a>
               </div>
@@ -288,10 +280,10 @@ export default function Home() {
                     alt=""
                   />
                   <div className="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">
-                    35% OFF
+                    Luanda
                   </div>
                   <div className="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
-                    Australia
+                    Ilha do Mussulo
                   </div>
                 </a>
               </div>
@@ -313,10 +305,10 @@ export default function Home() {
                 style={{ objectFit: "cover" }}
               />
               <div className="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">
-                20% OFF
+                Luanda
               </div>
-              <div className="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
-                Indonesia
+              <div classNam12e="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
+                Museu da Escravatura
               </div>
             </a>
           </div>
@@ -329,9 +321,9 @@ export default function Home() {
       <div className="container">
         <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Packages
+            Pacotess
           </h6>
-          <h1 className="mb-5">Awesome Packages</h1>
+          <h1 className="mb-5">Pacotes Incríveis</h1>
         </div>
         <div className="row g-4 justify-content-center">
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -342,17 +334,17 @@ export default function Home() {
               <div className="d-flex border-bottom">
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-map-marker-alt text-primary me-2" />
-                  Thailand
+                  Benguela
                 </small>
                 <small className="flex-fill text-center border-end py-2">
-                  <i className="fa fa-calendar-alt text-primary me-2" />3 days
+                  <i className="fa fa-calendar-alt text-primary me-2" />3 Dias
                 </small>
                 <small className="flex-fill text-center py-2">
-                  <i className="fa fa-user text-primary me-2" />2 Person
+                  <i className="fa fa-user text-primary me-2" />2 Pessoas
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">$149.00</h3>
+                <h3 className="mb-0">KZ 149.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -370,14 +362,14 @@ export default function Home() {
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
-                    Read More
+                    Saber mais
                   </a>
                   <a
                     href="#"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
-                    Book Now
+                    Pagar agora
                   </a>
                 </div>
               </div>
@@ -391,17 +383,17 @@ export default function Home() {
               <div className="d-flex border-bottom">
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-map-marker-alt text-primary me-2" />
-                  Indonesia
+                  Malanje
                 </small>
                 <small className="flex-fill text-center border-end py-2">
-                  <i className="fa fa-calendar-alt text-primary me-2" />3 days
+                  <i className="fa fa-calendar-alt text-primary me-2" />3 Dias
                 </small>
                 <small className="flex-fill text-center py-2">
-                  <i className="fa fa-user text-primary me-2" />2 Person
+                  <i className="fa fa-user text-primary me-2" />2 Pessoas
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">$139.00</h3>
+                <h3 className="mb-0">KZ 139.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -419,14 +411,14 @@ export default function Home() {
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
-                    Read More
+                    Saber mais
                   </a>
                   <a
                     href="#"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
-                    Book Now
+                    Pagar agora
                   </a>
                 </div>
               </div>
@@ -440,17 +432,17 @@ export default function Home() {
               <div className="d-flex border-bottom">
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-map-marker-alt text-primary me-2" />
-                  Malaysia
+                  Humabo
                 </small>
                 <small className="flex-fill text-center border-end py-2">
-                  <i className="fa fa-calendar-alt text-primary me-2" />3 days
+                  <i className="fa fa-calendar-alt text-primary me-2" />3 Dias
                 </small>
                 <small className="flex-fill text-center py-2">
-                  <i className="fa fa-user text-primary me-2" />2 Person
+                  <i className="fa fa-user text-primary me-2" />2 Pessoas
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">$189.00</h3>
+                <h3 className="mb-0">KZ 189.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -468,14 +460,14 @@ export default function Home() {
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
-                    Read More
+                    Saber mais
                   </a>
                   <a
                     href="#"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
-                    Book Now
+                    Pagar agora
                   </a>
                 </div>
               </div>
@@ -491,8 +483,8 @@ export default function Home() {
         <div className="booking p-5">
           <div className="row g-5 align-items-center">
             <div className="col-md-6 text-white">
-              <h6 className="text-white text-uppercase">Booking</h6>
-              <h1 className="text-white mb-4">Online Booking</h1>
+              <h6 className="text-white text-uppercase">Reverva</h6>
+              <h1 className="text-white mb-4">Reserva Online</h1>
               <p className="mb-4">
                 Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
                 Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.
@@ -503,11 +495,11 @@ export default function Home() {
                 sed stet lorem sit clita duo justo magna dolore erat amet
               </p>
               <a className="btn btn-outline-light py-3 px-5 mt-2" href="">
-                Read More
+                Saber mais
               </a>
             </div>
             <div className="col-md-6">
-              <h1 className="text-white mb-4">Book A Tour</h1>
+              <h1 className="text-white mb-4">Reserve um passeio</h1>
               <form>
                 <div className="row g-3">
                   <div className="col-md-6">
@@ -518,7 +510,7 @@ export default function Home() {
                         id="name"
                         placeholder="Your Name"
                       />
-                      <label htmlFor="name">Your Name</label>
+                      <label htmlFor="name">Seu Nome</label>
                     </div>
                   </div>
                   <div className="col-md-6">
@@ -529,7 +521,7 @@ export default function Home() {
                         id="email"
                         placeholder="Your Email"
                       />
-                      <label htmlFor="email">Your Email</label>
+                      <label htmlFor="email">Seu Email</label>
                     </div>
                   </div>
                   <div className="col-md-6">
@@ -546,7 +538,7 @@ export default function Home() {
                         data-target="#date3"
                         data-toggle="datetimepicker"
                       />
-                      <label htmlFor="datetime">Date &amp; Time</label>
+                      <label htmlFor="datetime">Data &amp; Hora</label>
                     </div>
                   </div>
                   <div className="col-md-6">
@@ -555,11 +547,11 @@ export default function Home() {
                         className="form-select bg-transparent"
                         id="select1"
                       >
-                        <option value={1}>Destination 1</option>
-                        <option value={2}>Destination 2</option>
-                        <option value={3}>Destination 3</option>
+                        <option value={1}>Serra da Leba</option>
+                        <option value={2}>Ilha do Mussulo</option>
+                        <option value={3}>Quedas de Calandula</option>
                       </select>
-                      <label htmlFor="select1">Destination</label>
+                      <label htmlFor="select1">Destinos</label>
                     </div>
                   </div>
                   <div className="col-12">
@@ -571,7 +563,7 @@ export default function Home() {
                         style={{ height: 100 }}
                         defaultValue={""}
                       />
-                      <label htmlFor="message">Special Request</label>
+                      <label htmlFor="message">Requisição Especial</label>
                     </div>
                   </div>
                   <div className="col-12">
@@ -579,7 +571,7 @@ export default function Home() {
                       className="btn btn-outline-light w-100 py-3"
                       type="submit"
                     >
-                      Book Now
+                      Pagar Agora
                     </button>
                   </div>
                 </div>
@@ -595,9 +587,9 @@ export default function Home() {
       <div className="container">
         <div className="text-center pb-4 wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Process
+            Processos
           </h6>
-          <h1 className="mb-5">3 Easy Steps</h1>
+          <h1 className="mb-5">3 Passos Simples</h1>
         </div>
         <div className="row gy-5 gx-4 justify-content-center">
           <div
@@ -611,7 +603,7 @@ export default function Home() {
               >
                 <i className="fa fa-globe fa-3x text-white" />
               </div>
-              <h5 className="mt-4">Choose A Destination</h5>
+              <h5 className="mt-4">Escolher o Destino</h5>
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
@@ -631,7 +623,7 @@ export default function Home() {
               >
                 <i className="fa fa-dollar-sign fa-3x text-white" />
               </div>
-              <h5 className="mt-4">Pay Online</h5>
+              <h5 className="mt-4">Pagamento Online</h5>
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
@@ -651,7 +643,7 @@ export default function Home() {
               >
                 <i className="fa fa-plane fa-3x text-white" />
               </div>
-              <h5 className="mt-4">Fly Today</h5>
+              <h5 className="mt-4">Voe hoje</h5>
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
@@ -669,9 +661,9 @@ export default function Home() {
       <div className="container">
         <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Travel Guide
+            Guia de viagem
           </h6>
-          <h1 className="mb-5">Meet Our Guide</h1>
+          <h1 className="mb-5">Conheça nossos guia</h1>
         </div>
         <div className="row g-4">
           <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -694,8 +686,8 @@ export default function Home() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designaçáo</small>
               </div>
             </div>
           </div>
@@ -719,8 +711,8 @@ export default function Home() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designaçáo</small>
               </div>
             </div>
           </div>
@@ -744,8 +736,8 @@ export default function Home() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designaçáo</small>
               </div>
             </div>
           </div>
@@ -769,8 +761,8 @@ export default function Home() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designaçáo</small>
               </div>
             </div>
           </div>
@@ -783,9 +775,9 @@ export default function Home() {
       <div className="container">
         <div className="text-center">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Testimonial
+            Testemunha
           </h6>
-          <h1 className="mb-5">Our Clients Say!!!</h1>
+          <h1 className="mb-5">O Que Os Nossos Clientes Dizem!!!</h1>
         </div>
         <div className="owl-carousel testimonial-carousel position-relative">
           <div className="testimonial-item bg-white text-center border p-4">

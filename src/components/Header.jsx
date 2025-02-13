@@ -105,46 +105,20 @@ function Header() {
               Home
             </Link>
             <Link to="/About" className="nav-item nav-link">
-              About
+              Sobre
             </Link>
             <Link to="/Services" className="nav-item nav-link">
-              Services
+              Serviços
             </Link>
             <Link to="/Packages" className="nav-item nav-link">
-              Packages
+              Pacotes
             </Link>
-            <div className="nav-item dropdown">
-              <Link
-                to="#"
-                className="nav-link dropdown-toggle"
-                data-bs-toggle="dropdown"
-              >
-                Pages
-              </Link>
-              <div className="dropdown-menu m-0">
-                <Link to="/Destination" className="dropdown-item">
-                  Destination
-                </Link>
-                <Link to="/Booking" className="dropdown-item">
-                  Booking
-                </Link>
-                <Link to="/Team" className="dropdown-item">
-                  Travel Guides
-                </Link>
-                <Link to="/Testimonial" className="dropdown-item">
-                  Testimonial
-                </Link>
-                <Link to="/Error" className="dropdown-item">
-                  404 Page
-                </Link>
-              </div>
-            </div>
             <Link to="/Contact" className="nav-item nav-link">
-              Contact
+              Contacto
             </Link>
           </div>
           <Link to="/" className="btn btn-primary rounded-pill py-2 px-4">
-            Register
+            Registar
           </Link>
         </div>
       </nav>
