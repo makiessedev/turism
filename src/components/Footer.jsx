@@ -32,11 +32,11 @@ export default function Footer() {
             <h4 className="text-white mb-3">Contact</h4>
             <p className="mb-2">
               <i className="fa fa-map-marker-alt me-3" />
-              123 Street, New York, USA
+              Rua 123, Camama, Luanda
             </p>
             <p className="mb-2">
               <i className="fa fa-phone-alt me-3" />
-              +012 345 67890
+              +244 933 791 7700
             </p>
             <p className="mb-2">
               <i className="fa fa-envelope me-3" />

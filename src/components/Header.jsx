@@ -29,11 +29,11 @@ function Header() {
           >
             <small className="me-3 text-light">
               <i className="fa fa-map-marker-alt me-2" />
-              123 Street, New York, USA
+              Rua 123, Camama, Luanda
             </small>
             <small className="me-3 text-light">
               <i className="fa fa-phone-alt me-2" />
-              +012 345 6789
+              +244 933 791 770
             </small>
             <small className="text-light">
               <i className="fa fa-envelope-open me-2" />
