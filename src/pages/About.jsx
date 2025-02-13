@@ -30,7 +30,7 @@ function About() {
       </div>
     </div>
   </div>
-        
+
             {/* About Start */}
     <div className="container-xxl py-5">
       <div className="container">
@@ -54,7 +54,7 @@ function About() {
               About Us
             </h6>
             <h1 className="mb-4">
-              Welcome to <span className="text-primary">Tourist</span>
+              Welcome to <span className="text-primary">CulturAngola</span>
             </h1>
             <p className="mb-4">
               Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu

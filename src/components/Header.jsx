@@ -87,7 +87,7 @@ function Header() {
         <Link to="/" className="navbar-brand p-0">
           <h1 className="text-primary m-0">
             <i className="fa fa-map-marker-alt me-3" />
-            Tourist
+            CulturAngola
           </h1>
           {/* <img src="img/logo.png" alt="Logo"> */}
         </Link>

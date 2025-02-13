@@ -8,7 +8,7 @@ export default function Home() {
           <div className="row justify-content-center py-5">
             <div className="col-lg-10 pt-lg-5 mt-lg-5 text-center">
               <h1 className="display-3 text-white mb-3 animated slideInDown">
-                Enjoy Your Vacation With Us
+                Desfrute de férias inesquecíveis com a gente!
               </h1>
               <p className="fs-4 text-white mb-4 animated slideInDown">
                 Tempor erat elitr rebum at clita diam amet diam et eos erat
@@ -18,14 +18,14 @@ export default function Home() {
                 <input
                   className="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5"
                   type="text"
-                  placeholder="Eg: Thailand"
+                  placeholder="Econstre o seu destino..."
                 />
                 <button
                   type="button"
                   className="btn btn-primary rounded-pill py-2 px-4 position-absolute top-0 end-0 me-2"
                   style={{ marginTop: 7 }}
                 >
-                  Search
+                  Pesquisa
                 </button>
               </div>
             </div>
@@ -55,7 +55,7 @@ export default function Home() {
               About Us
             </h6>
             <h1 className="mb-4">
-              Welcome to <span className="text-primary">Tourist</span>
+              Welcome to <span className="text-primary">CulturAngola</span>
             </h1>
             <p className="mb-4">
               Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -845,7 +845,7 @@ export default function Home() {
         </div>
       </div>
     </div>
-    {/* Testimonial End */}  
+    {/* Testimonial End */}
     </div>
   )
 }
