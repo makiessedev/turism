@@ -17,7 +17,7 @@ function Team() {
                 className="breadcrumb-item text-white active"
                 aria-current="page"
               >
-                Travel Guides
+                Guia de Viajems
               </li>
             </ol>
           </nav>
@@ -30,9 +30,9 @@ function Team() {
       <div className="container">
         <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Travel Guide
+            Guia de Viajem
           </h6>
-          <h1 className="mb-5">Meet Our Guide</h1>
+          <h1 className="mb-5">Conheça Nosso Guia</h1>
         </div>
         <div className="row g-4">
           <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -55,8 +55,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -80,8 +80,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -105,8 +105,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -130,8 +130,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -155,8 +155,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -180,8 +180,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -205,8 +205,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -230,8 +230,8 @@ function Team() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>

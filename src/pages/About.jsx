@@ -22,7 +22,7 @@ function About() {
                 className="breadcrumb-item text-white active"
                 aria-current="page"
               >
-                About
+                Sobre
               </li>
             </ol>
           </nav>
@@ -54,52 +54,51 @@ function About() {
               Sobre Nós
             </h6>
             <h1 className="mb-4">
-              Welcome to <span className="text-primary">CulturAngola</span>
+              Bem Vindo ao <span className="text-primary">CulturAngola</span>
             </h1>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit.
+              A CulturAngola é uma empresa inovadora no setor de turismo em Angola, com a missão de transformar a
+              forma como os viajantes exploram e vivenciam a riqueza cultural e natural do país.
             </p>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
+              Combinamos tecnologia de ponta com um profundo conhecimento local para oferecer experiências turísticas inteligentes,
+              personalizadas e inesquecíveis.
             </p>
             <div className="row gy-2 gx-4 mb-4">
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  First Class Flights
+                  Excelência em Serviços
                 </p>
               </div>
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  Handpicked Hotels
-                </p>
-              </div>
-              <div className="col-sm-6">
-                <p className="mb-0">
-                  <i className="fa fa-arrow-right text-primary me-2" />5 Star
-                  Accommodations
+                  Inteligência
                 </p>
               </div>
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  Latest Model Vehicles
+                  Personalização
                 </p>
               </div>
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  150 Premium City Tours
+                  Valorização da Cultura
                 </p>
               </div>
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  24/7 Service
+                  Inovação
+                </p>
+              </div>
+              <div className="col-sm-6">
+                <p className="mb-0">
+                  <i className="fa fa-arrow-right text-primary me-2" />
+                  Serviços 24/7
                 </p>
               </div>
             </div>
@@ -116,9 +115,9 @@ function About() {
       <div className="container">
         <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Travel Guide
+            Guia de Viajem
           </h6>
-          <h1 className="mb-5">Meet Our Guide</h1>
+          <h1 className="mb-5">Conheça Nosso Guia</h1>
         </div>
         <div className="row g-4">
           <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -141,8 +140,8 @@ function About() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -166,8 +165,8 @@ function About() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -191,8 +190,8 @@ function About() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>
@@ -216,8 +215,8 @@ function About() {
                 </a>
               </div>
               <div className="text-center p-4">
-                <h5 className="mb-0">Full Name</h5>
-                <small>Designation</small>
+                <h5 className="mb-0">Nome Completo</h5>
+                <small>Designação</small>
               </div>
             </div>
           </div>

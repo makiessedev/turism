@@ -65,7 +65,7 @@ function Services() {
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-user text-primary mb-4" />
-                <h5>Travel Guides</h5>
+                <h5>Guia de Viajems</h5>
                 <p>
                   Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
                   amet diam
@@ -113,7 +113,7 @@ function Services() {
             <div className="service-item rounded pt-3">
               <div className="p-4">
                 <i className="fa fa-3x fa-user text-primary mb-4" />
-                <h5>Travel Guides</h5>
+                <h5>Guia de Viajems</h5>
                 <p>
                   Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
                   amet diam
