@@ -16,7 +16,7 @@ export default function Footer() {
               Sobre Nós
             </a>
             <a className="btn btn-link" href="/">
-              Contact Us
+              Contacte-nos
             </a>
             <a className="btn btn-link" href="/">
               Privacy Policy

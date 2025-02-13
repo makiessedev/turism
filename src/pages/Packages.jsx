@@ -8,7 +8,7 @@ function Packages() {
       <div className="row justify-content-center py-5">
         <div className="col-lg-10 pt-lg-5 mt-lg-5 text-center">
           <h1 className="display-3 text-white animated slideInDown">
-            Packages
+            Pacotes
           </h1>
           <nav aria-label="breadcrumb">
             <ol className="breadcrumb justify-content-center">
@@ -19,7 +19,7 @@ function Packages() {
                 className="breadcrumb-item text-white active"
                 aria-current="page"
               >
-                Packages
+                Pacotes
               </li>
             </ol>
           </nav>
@@ -32,9 +32,9 @@ function Packages() {
       <div className="container">
         <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Packages
+            Pacotes
           </h6>
-          <h1 className="mb-5">Awesome Packages</h1>
+          <h1 className="mb-5">Pacotes incríveis</h1>
         </div>
         <div className="row g-4 justify-content-center">
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -45,17 +45,17 @@ function Packages() {
               <div className="d-flex border-bottom">
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-map-marker-alt text-primary me-2" />
-                  Thailand
+                  Uíge
                 </small>
                 <small className="flex-fill text-center border-end py-2">
-                  <i className="fa fa-calendar-alt text-primary me-2" />3 days
+                  <i className="fa fa-calendar-alt text-primary me-2" />3 Dias
                 </small>
                 <small className="flex-fill text-center py-2">
-                  <i className="fa fa-user text-primary me-2" />2 Person
+                  <i className="fa fa-user text-primary me-2" />2 Pessoas
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">$149.00</h3>
+                <h3 className="mb-0">KZ 149.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -73,14 +73,14 @@ function Packages() {
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
-                    Read More
+                    Saber mais
                   </a>
                   <a
                     href="#"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
-                    Book Now
+                    Pagar agora
                   </a>
                 </div>
               </div>
@@ -94,17 +94,17 @@ function Packages() {
               <div className="d-flex border-bottom">
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-map-marker-alt text-primary me-2" />
-                  Indonesia
+                  Cabinda
                 </small>
                 <small className="flex-fill text-center border-end py-2">
-                  <i className="fa fa-calendar-alt text-primary me-2" />3 days
+                  <i className="fa fa-calendar-alt text-primary me-2" />3 dias
                 </small>
                 <small className="flex-fill text-center py-2">
-                  <i className="fa fa-user text-primary me-2" />2 Person
+                  <i className="fa fa-user text-primary me-2" />2 Pessoas
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">$139.00</h3>
+                <h3 className="mb-0">KZ 139.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -122,14 +122,14 @@ function Packages() {
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
-                    Read More
+                    Saber mais
                   </a>
                   <a
                     href="#"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
-                    Book Now
+                    Pagar agora
                   </a>
                 </div>
               </div>
@@ -143,17 +143,17 @@ function Packages() {
               <div className="d-flex border-bottom">
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-map-marker-alt text-primary me-2" />
-                  Malaysia
+                  Bié
                 </small>
                 <small className="flex-fill text-center border-end py-2">
-                  <i className="fa fa-calendar-alt text-primary me-2" />3 days
+                  <i className="fa fa-calendar-alt text-primary me-2" />3 dias
                 </small>
                 <small className="flex-fill text-center py-2">
-                  <i className="fa fa-user text-primary me-2" />2 Person
+                  <i className="fa fa-user text-primary me-2" />2 Pessoas
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">$189.00</h3>
+                <h3 className="mb-0">KZ 189.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -171,14 +171,14 @@ function Packages() {
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
-                    Read More
+                    Saber mais
                   </a>
                   <a
                     href="#"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
-                    Book Now
+                    Pagar agora
                   </a>
                 </div>
               </div>
@@ -194,7 +194,7 @@ function Packages() {
         <div className="booking p-5">
           <div className="row g-5 align-items-center">
             <div className="col-md-6 text-white">
-              <h6 className="text-white text-uppercase">Booking</h6>
+              <h6 className="text-white text-uppercase">Reservas</h6>
               <h1 className="text-white mb-4">Online Booking</h1>
               <p className="mb-4">
                 Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
@@ -206,11 +206,11 @@ function Packages() {
                 sed stet lorem sit clita duo justo magna dolore erat amet
               </p>
               <a className="btn btn-outline-light py-3 px-5 mt-2" href="">
-                Read More
+                Saber mais
               </a>
             </div>
             <div className="col-md-6">
-              <h1 className="text-white mb-4">Book A Tour</h1>
+              <h1 className="text-white mb-4">Reserva um passeio</h1>
               <form>
                 <div className="row g-3">
                   <div className="col-md-6">
@@ -249,7 +249,7 @@ function Packages() {
                         data-target="#date3"
                         data-toggle="datetimepicker"
                       />
-                      <label htmlFor="datetime">Date &amp; Time</label>
+                      <label htmlFor="datetime">Data &amp; Hora</label>
                     </div>
                   </div>
                   <div className="col-md-6">
@@ -282,7 +282,7 @@ function Packages() {
                       className="btn btn-outline-light w-100 py-3"
                       type="submit"
                     >
-                      Book Now
+                      Pagar agora
                     </button>
                   </div>
                 </div>

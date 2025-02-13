@@ -8,7 +8,7 @@ function Contact() {
       <div className="row justify-content-center py-5">
         <div className="col-lg-10 pt-lg-5 mt-lg-5 text-center">
           <h1 className="display-3 text-white animated slideInDown">
-            Contact Us
+            Contacte-nos
           </h1>
           <nav aria-label="breadcrumb">
             <ol className="breadcrumb justify-content-center">
@@ -19,7 +19,7 @@ function Contact() {
                 className="breadcrumb-item text-white active"
                 aria-current="page"
               >
-                Contact
+                Contacto
               </li>
             </ol>
           </nav>
@@ -32,7 +32,7 @@ function Contact() {
       <div className="container">
         <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Contact Us
+            Contacte-nos
           </h6>
           <h1 className="mb-5">Contact For Any Query</h1>
         </div>

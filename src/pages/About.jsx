@@ -103,7 +103,7 @@ function About() {
               </div>
             </div>
             <a className="btn btn-primary py-3 px-5 mt-2" href="">
-              Read More
+              Saber mais
             </a>
           </div>
         </div>

@@ -117,11 +117,11 @@ function Booking() {
                 sed stet lorem sit clita duo justo magna dolore erat amet
               </p>
               <a className="btn btn-outline-light py-3 px-5 mt-2" href="">
-                Read More
+                Saber mais
               </a>
             </div>
             <div className="col-md-6">
-              <h1 className="text-white mb-4">Book A Tour</h1>
+              <h1 className="text-white mb-4">Reserva um passeio</h1>
               <form>
                 <div className="row g-3">
                   <div className="col-md-6">
@@ -193,7 +193,7 @@ function Booking() {
                       className="btn btn-outline-light w-100 py-3"
                       type="submit"
                     >
-                      Book Now
+                      Pagar agora
                     </button>
                   </div>
                 </div>
