@@ -11,8 +11,7 @@ export default function Home() {
                 Desfrute de férias inesquecíveis com a gente!
               </h1>
               <p className="fs-4 text-white mb-4 animated slideInDown">
-                Tempor erat elitr rebum at clita diam amet diam et eos erat
-                ipsum lorem sit
+                A Sua Viagem Inteligente e Personalizada por Angola.
               </p>
               <div className="position-relative w-75 mx-auto animated slideInDown">
                 <input
@@ -52,60 +51,59 @@ export default function Home() {
           </div>
           <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
             <h6 className="section-title bg-white text-start text-primary pe-3">
-              About Us
+              Sobre Nós
             </h6>
             <h1 className="mb-4">
-              Welcome to <span className="text-primary">CulturAngola</span>
+              Bem Vindo ao <span className="text-primary">CulturAngola</span>
             </h1>
-            <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit.
+            <p className="mb-2">
+              A CulturAngola é uma empresa inovadora no setor de turismo em Angola, com a missão de transformar a
+              forma como os viajantes exploram e vivenciam a riqueza cultural e natural do país.
             </p>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
+              Combinamos tecnologia de ponta com um profundo conhecimento local para oferecer experiências turísticas inteligentes,
+              personalizadas e inesquecíveis.
             </p>
             <div className="row gy-2 gx-4 mb-4">
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  First Class Flights
+                  Excelência em Serviços
                 </p>
               </div>
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  Handpicked Hotels
-                </p>
-              </div>
-              <div className="col-sm-6">
-                <p className="mb-0">
-                  <i className="fa fa-arrow-right text-primary me-2" />5 Star
-                  Accommodations
+                  Inteligência
                 </p>
               </div>
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  Latest Model Vehicles
+                  Personalização
                 </p>
               </div>
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  150 Premium City Tours
+                  Valorização da Cultura
                 </p>
               </div>
               <div className="col-sm-6">
                 <p className="mb-0">
                   <i className="fa fa-arrow-right text-primary me-2" />
-                  24/7 Service
+                  Inovação
+                </p>
+              </div>
+              <div className="col-sm-6">
+                <p className="mb-0">
+                  <i className="fa fa-arrow-right text-primary me-2" />
+                  Serviços 24/7
                 </p>
               </div>
             </div>
             <a className="btn btn-primary py-3 px-5 mt-2" href="">
-              Read More
+              Saber mais
             </a>
           </div>
         </div>

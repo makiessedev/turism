@@ -13,7 +13,7 @@ export default function Footer() {
           <div className="col-lg-3 col-md-6">
             <h4 className="text-white mb-3">Company</h4>
             <a className="btn btn-link" href="/">
-              About Us
+              Sobre Nós
             </a>
             <a className="btn btn-link" href="/">
               Contact Us
@@ -40,7 +40,7 @@ export default function Footer() {
             </p>
             <p className="mb-2">
               <i className="fa fa-envelope me-3" />
-              info@example.com
+              info@culturangola.com
             </p>
             <div className="d-flex pt-2">
               <a className="btn btn-outline-light btn-social" href="/">

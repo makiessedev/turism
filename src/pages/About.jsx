@@ -8,7 +8,7 @@ function About() {
       <div className="row justify-content-center py-5">
         <div className="col-lg-10 pt-lg-5 mt-lg-5 text-center">
           <h1 className="display-3 text-white animated slideInDown">
-            About Us
+            Sobre Nós
           </h1>
           <nav aria-label="breadcrumb">
             <ol className="breadcrumb justify-content-center">
@@ -51,7 +51,7 @@ function About() {
           </div>
           <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
             <h6 className="section-title bg-white text-start text-primary pe-3">
-              About Us
+              Sobre Nós
             </h6>
             <h1 className="mb-4">
               Welcome to <span className="text-primary">CulturAngola</span>

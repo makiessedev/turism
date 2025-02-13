@@ -37,7 +37,7 @@ function Header() {
             </small>
             <small className="text-light">
               <i className="fa fa-envelope-open me-2" />
-              info@example.com
+              info@culturangola.com
             </small>
           </div>
         </div>
