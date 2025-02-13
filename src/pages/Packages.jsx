@@ -195,7 +195,7 @@ function Packages() {
           <div className="row g-5 align-items-center">
             <div className="col-md-6 text-white">
               <h6 className="text-white text-uppercase">Reservas</h6>
-              <h1 className="text-white mb-4">Online Booking</h1>
+              <h1 className="text-white mb-4">Reserva Online</h1>
               <p className="mb-4">
                 Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
                 Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.
@@ -298,9 +298,9 @@ function Packages() {
       <div className="container">
         <div className="text-center pb-4 wow fadeInUp" data-wow-delay="0.1s">
           <h6 className="section-title bg-white text-center text-primary px-3">
-            Process
+            Processos
           </h6>
-          <h1 className="mb-5">3 Easy Steps</h1>
+          <h1 className="mb-5">3 Passos simples</h1>
         </div>
         <div className="row gy-5 gx-4 justify-content-center">
           <div
@@ -314,7 +314,7 @@ function Packages() {
               >
                 <i className="fa fa-globe fa-3x text-white" />
               </div>
-              <h5 className="mt-4">Choose A Destination</h5>
+              <h5 className="mt-4">Escolher Destino</h5>
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
@@ -334,7 +334,7 @@ function Packages() {
               >
                 <i className="fa fa-dollar-sign fa-3x text-white" />
               </div>
-              <h5 className="mt-4">Pay Online</h5>
+              <h5 className="mt-4">Pagamento Online</h5>
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
@@ -354,7 +354,7 @@ function Packages() {
               >
                 <i className="fa fa-plane fa-3x text-white" />
               </div>
-              <h5 className="mt-4">Fly Today</h5>
+              <h5 className="mt-4">Voe Agora</h5>
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">

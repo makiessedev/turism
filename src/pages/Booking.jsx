@@ -106,7 +106,7 @@ function Booking() {
           <div className="row g-5 align-items-center">
             <div className="col-md-6 text-white">
               <h6 className="text-white text-uppercase">Booking</h6>
-              <h1 className="text-white mb-4">Online Booking</h1>
+              <h1 className="text-white mb-4">Reserva Online</h1>
               <p className="mb-4">
                 Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
                 Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.
