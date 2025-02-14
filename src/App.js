@@ -12,6 +12,10 @@ import Team from './pages/Team'
 import Testimonial from './pages/Testimonial'
 import Error from './pages/Error'
 import Contact from './pages/Contact'
+import SerraDaLeba from './pages/SerraDaLeba'
+import IlhaMussulo from './pages/IlhaMussulo'
+import MuseuEscravatura from './pages/MuseuEscravatura'
+import DesertoNamibe from './pages/DesertoNamibe'
 
 export default function App() {
   return (
@@ -23,6 +27,10 @@ export default function App() {
         <Route path='/services' element={<Services/>}/>
         <Route path='/packages' element={<Packages/>}/>
         <Route path='/destination' element={<Destination/>}/>
+        <Route path='/serra-da-leba' element={<SerraDaLeba/>}/>
+        <Route path='/ilha-do-mussulo' element={<IlhaMussulo/>}/>
+        <Route path='/museu-da-escravatura' element={<MuseuEscravatura/>}/>
+        <Route path='/deserto-namibe' element={<DesertoNamibe/>}/>
         <Route path='/booking' element={<Booking/>}/>
         <Route path='/team' element={<Team/>}/>
         <Route path='/testimonial' element={<Testimonial/>}/>

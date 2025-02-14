@@ -230,7 +230,7 @@ export default function Home() {
               >
                 <a
                   className="position-relative d-block overflow-hidden"
-                  href=""
+                  href="serra-da-leba"
                 >
                   <img
                     className="img-fluid"
@@ -251,7 +251,7 @@ export default function Home() {
               >
                 <a
                   className="position-relative d-block overflow-hidden"
-                  href=""
+                  href="deserto-namibe"
                 >
                   <img
                     className="img-fluid"
@@ -272,7 +272,7 @@ export default function Home() {
               >
                 <a
                   className="position-relative d-block overflow-hidden"
-                  href=""
+                  href="ilha-do-mussulo"
                 >
                   <img
                     className="img-fluid"
@@ -296,7 +296,7 @@ export default function Home() {
           >
             <a
               className="position-relative d-block h-100 overflow-hidden"
-              href=""
+              href="museu-da-escravatura"
             >
               <img
                 className="img-fluid position-absolute w-100 h-100"
