@@ -307,10 +307,11 @@ export default function Home() {
               <div className="bg-white text-danger fw-bold position-absolute top-0 start-0 m-3 py-1 px-2">
                 Luanda
               </div>
-              <div classNam12e="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
+              <div className="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
                 Museu da Escravatura
               </div>
             </a>
+
           </div>
         </div>
       </div>
